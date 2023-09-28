@@ -274,7 +274,7 @@ def com():
 	if _____SAIFUL_____ in ['3']:
 		#os.system("xdg-open https://www.facebook.com/gangstter.ceo?mibextid=ZbWKwL")
 		
-	if _____SAIFUL_____ in ['4']:
+	#  if _____SAIFUL_____ in ['4']:
 		menu()
 		
 	else:
